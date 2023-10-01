@@ -5,7 +5,7 @@
   </a> <a href = "https://jun-bae.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
   <img alt="Gmail" src 
   ="https://img.shields.io/badge/wns0394@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a> <a href = "[https://jun-bae.tistory.com/](https://www.notion.so/junbaesick/3d961e6921b441d695d5a8879a84d97b)"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+  </a> <a href = "https://www.notion.so/junbaesick/3d961e6921b441d695d5a8879a84d97b"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 
 </div>
 
